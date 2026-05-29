@@ -1,4 +1,5 @@
 app: 
-  name: Dev Application with changes are happed
+  name: Dev Application refreshed
 
 url: http://localhost:8888/application-dev/default
+
